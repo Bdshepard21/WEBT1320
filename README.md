@@ -1,5 +1,5 @@
-# WEBT1320 Project Pages
+# WEBT1320 Project Page
 
 <h1>Project Lists</h1>
 
-<a herf="Lab1/Index.html" target="_blank">lab 1</a>
+<a herf="project1/Index.html" target="_blank">project 1</a>
