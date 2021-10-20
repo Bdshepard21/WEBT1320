@@ -2,4 +2,4 @@
 
 <h1>Project Lists</h1>
 
-<a herf="Project 1/Index.html" target="-blank">Project 1</a>
+<a herf="Project1/Index.html" target="_blank">Project 1</a>
