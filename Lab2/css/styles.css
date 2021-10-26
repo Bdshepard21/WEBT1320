@@ -39,7 +39,7 @@ nav{
 
 nav a{
     display: inline-block;
-    background: color black; 
+    background-color:  black; 
     height: 50px;
     width:175px;
     font-size: 1.5em;
