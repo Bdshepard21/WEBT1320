@@ -31,18 +31,18 @@ header h1{
 .col{
     border: 4px solid #f29422;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     border-radius: 20px;
 }
 
 .col h2{
     text-align: center;
-    font-size: 2em;
+    font-size: 1em;
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .col img{
-    width: 50%;
+    width: 70%;
 }
 
 .main_img{
