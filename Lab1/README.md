@@ -1,9 +1,0 @@
-## WEBT1320 Project Page
-
-<h2>Basic Web Projects</h2>
-
-<ul>
-
-<a herf="Lab1/index.html" target="_blank">Lab 1</a>
-
-</ul>
