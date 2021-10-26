@@ -4,6 +4,6 @@
 
 <ul>
 
-<a herf="Lab1/index.html" target="_blank">Lab 1</a>
+<a herf="Lab2/index.html" target="_blank">Lab 2</a>
 
 </ul>
