@@ -32,14 +32,14 @@ text-shadow: 2px 2px 2px black;
 }
 
 nav{
-    background-color: #050505;
+    background-color: black;
     padding-top: 10px;
     text-align: center;
 }
 
 nav a{
     display: inline-block;
-    background: color #050505; 
+    background: color black; 
     height: 50px;
     width:175px;
     font-size: 1.5em;
